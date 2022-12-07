@@ -1,14 +1,13 @@
 ---
 permalink: /
 layout: about
-title: About
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 About Me
-
+===
 Hi! I am PhD student in Mechanical Engineering at Virginia Tech, advised by [Dylan Losey](https://dylanlosey.com/).
 I am broadly interested in human-robot interaction, using machine learning to improve how robots collaborate with people.
 Currently, I am a research assistant at [Collab](https://collab.me.vt.edu/).
