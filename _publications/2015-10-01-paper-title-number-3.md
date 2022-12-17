@@ -1,15 +1,13 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+permalink: /publication/On-board-cable-attitude-measurement-and-controller-for-outdoor-aerial-transportation
+excerpt: 'Deploying quadcopters for aerial transportation can be cost effective in impromptu material handling applications. However, such applications are limited mainly due to the requirement of onboard localization sensors and associated computation. The current work presents a human-controlled modality to successfully execute spontaneous outdoor flight of a quadcopter with a cable-suspended payload. Stable and smooth flights are achieved through an onboard integration of a custom-built sensor system and a controller to minimize payload oscillations. The feasibility of the proposed modality is demonstrated by conducting outdoor experiments and a case study in an unstructured environment.'
+date: 2021-09-17
+venue: '2020 IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Prajapati, P., Parekh, S., & Vashista, V. (2022). On-board cable attitude measurement and controller for outdoor aerial transportation. Robotica, 40(5), 1650-1664.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
