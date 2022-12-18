@@ -3,37 +3,37 @@
   venue: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
   year: 2019
   note: ""
-  pdf: /files/publications/sagar_roman2019.pdf
-  figure: /images/publications/sagar_roman2019.png
+  pdf:
+  figure:
 
 - title: "On the human control of a multiple quadcopters with a cable-suspended payload system"
   authors: Pratik Prajapati, Sagar Parekh, Vineet Vashista
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2020
   note: ""
-  pdf: /pdfs/publications/sagar_icra2020.pdf
-  figure: /images/publications/sagar_icra2020.png
+  pdf:
+  figure:
 
 - title: "On-board cable attitude measurement and controller for outdoor aerial transportation"
   authors: Pratik Prajapati, Sagar Parekh, Vineet Vashista
   venue: "Robotica"
   year: 2022
   note: ""
-  pdf: /pdfs/publications/sagar_robotica2022.pdf
-  figure: /images/publications/sagar_robotica2022.png
+  pdf:
+  figure:
 
 - title: "Learning latent actions without human demonstrations"
   authors: Shaunak A Mehta, Sagar Parekh, Dylan P Losey
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2022
   note: ""
-  pdf: /pdfs/publications/sagar_icra2022.pdf
-  figure: /images/publications/sagar_icra2022.png
+  pdf:
+  figure:
 
 - title: "RILI: Robustly influencing latent intent"
   authors: Sagar Parekh, Soheil Habibian, Dylan P Losey
   venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
   year: 2022
   note: ""
-  pdf: /pdfs/publications/sagar_iros2022.pdf
-  figure: /images/publications/sagar_iros2022.png
+  pdf:
+  figure:
