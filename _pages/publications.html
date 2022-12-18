@@ -7,18 +7,27 @@ author_profile: true
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+    hr {
+        border-top: 2px solid black
+    }
+</style>
+
 <p>You can also find my publications on <u><a href="https://scholar.google.com/citations?hl=en&user=udrFhVMAAAAJ">my Google Scholar profile</a>.</u> </p>
 
 {% for year in site.data.years %}
 <h2>{{ year }}</h2>
+<hr>
 <div>
-    <table>
+    <table style="border:none">
         {% for paper in site.data.publications %}
         {% if paper.year == year %}
-        <tr>
-            <td>
-                <h4>{{ paper.title }}</h4>
-                <small>{{ paper.authors }}<br>
+        <tr style="border:none">
+            <td style="border:none">
+                <h3>{{ paper.title }}</h3>
+                    {{ paper.authors }}<br>
                     <i>{{ paper.venue }}</i><br>
                     {% if paper.note.size > 0 %}
                     {{ paper.note }}<br>
@@ -28,9 +37,9 @@ author_profile: true
                         Read Paper</button></a>
                     {% endif %}</small>
             </td>
-<!--            <td style="vertical-align:middle; width:30%;">-->
-<!--                <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:10px;" /></center>-->
-<!--            </td>-->
+            <td style="vertical-align:middle; width:30%; border:none">
+                <center><img src="{{ paper.figure }}" style="max-height:200px; border-radius:10px;" /></center>
+            </td>
         </tr>
         {% endif %}
         {% endfor %}
