@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
     <style>
@@ -25,8 +27,8 @@ author_profile: true
         {% if paper.year == year %}
         <tr style="border:none">
             <td style="border:none">
-                <h4>{{paper.title }}</h4>
-                <small>{{ paper.authors }}<br>
+                <h3>{{ paper.title }}</h3>
+                    {{ paper.authors }}<br>
                     <i>{{ paper.venue }}</i><br>
                     {% if paper.note.size > 0 %}
                     {{ paper.note }}<br>
