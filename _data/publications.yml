@@ -3,7 +3,7 @@
   venue: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
   year: 2019
   note: ""
-  pdf:
+  pdf: files/publications/Collaborative_Transportation_of_Cable-Suspended_Payload_using_Two_Quadcopters_with_Human_in_the_loop
   figure:
 
 - title: "On the human control of a multiple quadcopters with a cable-suspended payload system"
@@ -11,7 +11,7 @@
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2020
   note: ""
-  pdf:
+  pdf: files/publications/On_the_Human_Control_of_a_Multiple_Quadcopters_with_a_Cable-suspended_Payload_System
   figure:
 
 - title: "On-board cable attitude measurement and controller for outdoor aerial transportation"
@@ -19,7 +19,7 @@
   venue: "Robotica"
   year: 2022
   note: ""
-  pdf:
+  pdf: files/publications/On-board Cable Attitude Measurement-and-Controller-for-Outdoor-Aerial-Transportation
   figure:
 
 - title: "Learning latent actions without human demonstrations"
@@ -27,7 +27,7 @@
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2022
   note: ""
-  pdf:
+  pdf: files/publications/Learning_Latent_Actions_without_Human_Demonstrations
   figure:
 
 - title: "RILI: Robustly influencing latent intent"
@@ -35,5 +35,13 @@
   venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
   year: 2022
   note: ""
-  pdf:
+  pdf: files/publications/RILI_Robustly_influencing_latent_intent
+  figure:
+
+- title: "Learning Latent Representations to Co-Adapt to Humans"
+  authors: Sagar Parekh, Soheil Habibian, Dylan P Losey
+  venue: "Springer Autonomous Robots"
+  year:
+  note: "Under Review"
+  pdf: files/publications/learning-latent-representations-to-co-adapt-to-humans
   figure:
