@@ -35,6 +35,10 @@ author_profile: true
                     {% if paper.pdf.size > 0 %}
                     <a href="{{ paper.pdf }}" style="text-decoration:none;"><button class="btn">
                         Read Paper</button></a>
+                    {% endif %}
+                    {% if paper.url.size > 0 %}
+                    <a href="{{ paper.url }}" style="text-decoration:none;"><button class="btn">
+                        Webpage</button></a>
                     {% endif %}</small>
             </td>
             <td style="vertical-align:middle; width:30%; border:none">

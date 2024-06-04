@@ -1,8 +1,27 @@
+- title: "VIEW: Visual Imitation Learning with Waypoints"
+  authors: Ananth Jonnavittula, Sagar Parekh, Dylan P Losey
+  venue: "Springer Autonomous Robots"
+  year: 2024
+  note: "Under Review"
+  url: https://collab.me.vt.edu/view/
+  pdf: /files/publications/VIEW_Visual_Imitation_Learning_with_Waypoints.pdf
+  figure: /images/publications/view.png
+
+- title: "Safely and autonomously cutting meat with a collaborative robot arm"
+  authors: Ryan Wright*, Sagar Parekh*, Robin White, Dylan P Losey
+  venue: "Nature Scientific Reports"
+  year: 2024
+  note: ""
+  url: ""
+  pdf: /files/publications/Safely_and_autonomously_cutting_meat_with_a_collaborative_robot_arm.pdf
+  figure: /images/publications/collab_cut.png
+
 - title: "Learning Latent Representations to Co-Adapt to Humans"
   authors: Sagar Parekh, Soheil Habibian, Dylan P Losey
   venue: "Springer Autonomous Robots"
   year: 2022
-  note: "Under Review"
+  note: ""
+  url: 
   pdf: /files/publications/learning-latent-representations-to-co-adapt-to-humans.pdf
   figure: /images/publications/front_rili_auro.png
 
@@ -11,14 +30,16 @@
   venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
   year: 2022
   note: ""
+  url: ""
   pdf: /files/publications/RILI_Robustly_influencing_latent_intent.pdf
   figure: /images/publications/front_rili.png
 
 - title: "Learning latent actions without human demonstrations"
-  authors: Shaunak A Mehta, Sagar Parekh, Dylan P Losey
+  authors: Shaunak A Mehta*, Sagar Parekh*, Dylan P Losey
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2022
   note: ""
+  url: ""
   pdf: /files/publications/Learning_Latent_Actions_without_Human_Demonstrations.pdf
   figure: /images/publications/front_learning_latent_actions.png
 
@@ -27,6 +48,7 @@
   venue: "Robotica"
   year: 2022
   note: ""
+  url: ""
   pdf: /files/publications/On-board Cable Attitude Measurement-and-Controller-for-Outdoor-Aerial-Transportation.pdf
   figure: /images/publications/LineDiagram_robotica.png
 
@@ -35,6 +57,7 @@
   venue: "IEEE International Conference on Robotics and Automation (ICRA)"
   year: 2020
   note: ""
+  url: ""
   pdf: /files/publications/On_the_Human_Control_of_a_Multiple_Quadcopters_with_a_Cable-suspended_Payload_System.pdf
   figure: /images/publications/LineDiagram_multiple.png
 
@@ -43,6 +66,7 @@
   venue: "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"
   year: 2019
   note: ""
+  url: ""
   pdf: /files/publications/Collaborative_Transportation_of_Cable-Suspended_Payload_using_Two_Quadcopters_with_Human_in_the_loop.pdf
   figure: /images/publications/LineDiagram_two.png
 
