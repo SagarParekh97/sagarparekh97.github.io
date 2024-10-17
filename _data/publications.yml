@@ -1,3 +1,12 @@
+- title: "Using High-Level Patterns to Estimate How Humans Predict a Robot will Behave"
+  authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P Losey
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2024
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/Using_High-Level_Patterns_to_Estimate_How_Humans_Predict_a_Robot_will_Behave.pdf
+  figure: /images/publications/ToM.png
+
 - title: "VIEW: Visual Imitation Learning with Waypoints"
   authors: Ananth Jonnavittula, Sagar Parekh, Dylan P Losey
   venue: "Springer Autonomous Robots"
