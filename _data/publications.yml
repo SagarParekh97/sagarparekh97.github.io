@@ -12,7 +12,7 @@
   venue: "Springer Autonomous Robots"
   year: 2025
   note: "Under Review"
-  url: ""
+  url: "https://collab.me.vt.edu/data_curation/"
   pdf: /files/publications/Towards balanced behavior cloning from imbalanced datasets.pdf
   figure: /images/publications/front_balancing_auro.png
 
