@@ -1,8 +1,44 @@
+- title: "Fine-tuning robot policies while maintaining user privacy"
+  authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
+  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+  year: 2025
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/Fine-tuning robot policies while maintaining user privacy.pdf
+  figure: /images/publications/front_personalization_icra.png
+
+- title: "Towards balanced behavior cloning from imbalanced datasets"
+  authors: Sagar Parekh, Casey Grothoff, Ryan Wright, Robin White, Dylan P. Losey
+  venue: "Springer Autonomous Robots"
+  year: 2025
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/Towards balanced behavior cloning from imbalanced datasets.pdf
+  figure: /images/publications/front_balancing_auro.png
+
+- title: "Safe and transparent robots for human-in-the-loop meat processing"
+  authors: Sagar Parekh, Casey Grothoff, Ryan Wright, Robin White, Dylan P. Losey
+  venue: "Nature Scientific Reports"
+  year: 2025
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/Safe and transparent robots for human-in-the-loop meat processing.pdf
+  figure: /images/publications/front_cutting_science.png
+
+- title: "A unified framework for robots that influence humans over long-term interaction"
+  authors: Shahabedin Sagheb, Sagar Parekh, Ravi Pandya, Ye-Ji Mun, Katherine Driggs-Campbell, Andrea Bajcsy, Dylan P. Losey
+  venue: "International Journal of Robotics Research"
+  year: 2025
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/A unified framework for robots that influence humans over long-term interaction.pdf
+  figure: /images/publications/front_unified_ijrr.png
+
 - title: "Using High-Level Patterns to Estimate How Humans Predict a Robot will Behave"
   authors: Sagar Parekh, Lauren Bramblett, Nicola Bezzo, Dylan P Losey
-  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
-  year: 2024
-  note: "Under Review"
+  venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2025
+  note: ""
   url: ""
   pdf: /files/publications/Using_High-Level_Patterns_to_Estimate_How_Humans_Predict_a_Robot_will_Behave.pdf
   figure: /images/publications/ToM.png
@@ -11,7 +47,7 @@
   authors: Ananth Jonnavittula, Sagar Parekh, Dylan P Losey
   venue: "Springer Autonomous Robots"
   year: 2024
-  note: "Under Review"
+  note: ""
   url: https://collab.me.vt.edu/view/
   pdf: /files/publications/VIEW_Visual_Imitation_Learning_with_Waypoints.pdf
   figure: /images/publications/view.png
