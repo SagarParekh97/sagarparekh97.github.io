@@ -1,17 +1,35 @@
+- title: "TransMASK: Masked State Representation through Learned Transformation"
+  authors: Sagar Parekh, Preston Culbertson, Dylan P. Losey
+  venue: "Springer Autonomous Robots"
+  year: 2026
+  note: ""
+  url: "https://collab.me.vt.edu/TransMASK/"
+  pdf: /files/publications/TransMASK- Masked State Representation through Learned Transformation.pdf
+  figure: /images/publications/front_transmask_auro.png
+
+- title: "A pivot-based kirigami utensil for hand-held and robot-assisted feeding"
+  authors: Keone Leao, Grace Brotherson, Iain Mischel, Sagar Parekh, Dylan P. Losey
+  venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2026
+  note: "Under Review"
+  url: ""
+  pdf: /files/publications/A pivot-based kirigami utensil for hand-held and robot-assisted feeding.pdf
+  figure: /images/publications/front_kiri_spoon_iros.png
+
 - title: "Fine-tuning robot policies while maintaining user privacy"
   authors: Benjamin A. Christie, Sagar Parekh, Dylan P. Losey
-  venue: "IEEE International Conference on Robotics and Automation (ICRA)"
-  year: 2025
+  venue: "IEEE International Conference on Intelligent Robots and Systems (IROS)"
+  year: 2026
   note: "Under Review"
   url: ""
   pdf: /files/publications/Fine-tuning robot policies while maintaining user privacy.pdf
-  figure: /images/publications/front_personalization_icra.png
+  figure: /images/publications/front_personalization_iros.png
 
 - title: "Towards balanced behavior cloning from imbalanced datasets"
   authors: Sagar Parekh, Casey Grothoff, Ryan Wright, Robin White, Dylan P. Losey
   venue: "Springer Autonomous Robots"
   year: 2025
-  note: "Under Review"
+  note: ""
   url: "https://collab.me.vt.edu/data_curation/"
   pdf: /files/publications/Towards balanced behavior cloning from imbalanced datasets.pdf
   figure: /images/publications/front_balancing_auro.png
