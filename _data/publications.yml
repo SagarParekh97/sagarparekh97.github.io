@@ -1,9 +1,9 @@
 - title: "TransMASK: Masked State Representation through Learned Transformation"
   authors: Sagar Parekh, Preston Culbertson, Dylan P. Losey
-  venue: "Springer Autonomous Robots"
+  venue: "IEEE Transactions on Robot Learning"
   year: 2026
   note: "Under Review"
-  url: "https://collab.me.vt.edu/TransMASK/"
+  url: "https://transmask.github.io/TransMASK/"
   pdf: /files/publications/TransMASK- Masked State Representation through Learned Transformation.pdf
   figure: /images/publications/front_transmask_auro.png
 
